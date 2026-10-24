@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="beIN Sports 1" group-title="Sports",beIN SPORTS 1
+#EXTVLCOPT:http-user-agent=VLC/3.0.16 LibVLC/3.0.16
+http://foxbleu.org:8789/live/ludovic/8333/13614.ts
