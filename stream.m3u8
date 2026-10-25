@@ -1,3 +1,4 @@
 #EXTM3U
+#EXT-X-VERSION:3
 #EXTINF:-1, Live Stream
-http://mag.tiger-ott.net/live/TN78EZ/9NPKXL/798828.ts
+Http://192.142.27.113:80/live/play/ZEdOcFZGaHhSelI2VkRSVVN6bDNabEpEVW0xc2NGbERObTlCYjAxU1NsRkJjM05JVEVwalZrZFlORDA9/798828
